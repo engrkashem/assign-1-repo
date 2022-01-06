@@ -15,7 +15,6 @@
 
 }
 .half-width img{
-    height: 600px;
     width: 100%;
     margin-left: 5%;
 }
@@ -39,7 +38,7 @@ p{
     color: rgb(252, 118, 8);
 }
 .navy-color{
-    color: rgb(3, 3, 48);
+    color: rgb(8, 8, 90);
 }
 .link-text{
     text-decoration: none;
@@ -100,5 +99,10 @@ footer span{
 }
 .tomato-color{
     color: rgb(252, 19, 2);
+}
+.back-image-learn-web{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
