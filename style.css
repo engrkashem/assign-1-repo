@@ -20,11 +20,21 @@
 h1{
     font-size: 65px;
 }
+h2{
+    font-size: 58px;
+}
+h3{
+    font-size: 40px;
+}
 p{
     font-size: 20px;
+    text-align: justify;
 }
 .orange-color{
-    color: orange;
+    color: rgb(252, 118, 8);
+}
+.navy-color{
+    color: rgb(3, 3, 48);
 }
 .link-text{
     text-decoration: none;
@@ -40,3 +50,25 @@ p{
     border-image: linear-gradient(rgb(230, 43, 10), tomato);
     border-image-slice: 1;
 }
+.one-third-width img{
+    width: 55%;
+}
+.one-third-width{
+    width: 33%;
+    margin: 5%;
+    border-radius: 5%;
+    padding: 10px;
+}
+.bluish{
+    background-color: rgb(197, 211, 230);
+}
+.violetish{
+    background-color: rgb(226, 207, 226);
+}
+.pinkish{
+    background-color: rgb(247, 217, 223);
+}
+.text-center{
+    text-align: center;
+}
+
