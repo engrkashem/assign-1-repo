@@ -1,4 +1,42 @@
+.font-lora{
+    font-family: 'Lora', serif;
+    margin: 0;
+}
 .font-poppins{
     font-family: 'Poppins', sans-serif;
-    margin: 0;
+}
+.flex-content{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+
+}
+.half-width img{
+    height: 600px;
+    width: 100%;
+}
+h1{
+    font-size: 65px;
+}
+p{
+    font-size: 20px;
+}
+.orange-color{
+    color: orange;
+}
+.link-text{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(230, 43, 10), tomato);
+    color: white;
+    font-weight: 700;
+    padding: 12px 40px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.left-border{
+    border-left:7px solid;
+    border-image: linear-gradient(rgb(230, 43, 10), tomato);
+    border-image-slice: 1;
 }
