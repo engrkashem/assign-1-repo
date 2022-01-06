@@ -20,6 +20,7 @@
 }
 h1{
     font-size: 65px;
+    padding-left: 7px;
 }
 h2{
     font-size: 58px;
@@ -50,7 +51,7 @@ p{
     font-size: 20px;
 }
 .left-border{
-    border-left:7px solid;
+    border-left:5px solid;
     border-image: linear-gradient(rgb(172, 29, 4), rgb(247, 41, 5));
     border-image-slice: 1;
 }
